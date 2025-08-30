@@ -1,0 +1,26 @@
+ppsspp:https://www.ppsspp.org/download/
+dolphen:https://dolphin-emu.org/download/?ref=btn
+romes_ppsspp:https://romsfun.com/roms/playstation-portable/
+romwes_dolphen:https://romsfun.com/roms/gamecube/
+roms_dolphen:https://romsfun.com/roms/nintendo-wii/
+
+
+
+####################################################################################
+        <h1>Dolphin</h1>
+        <p>download Dolphin</p>
+        <a href="#">download</a>
+        <p>roms store1</p>
+        <a href="#">open</a>
+        <p>roms store2</p>
+        <a href="#">open</a>
+#######################################################################################
+
+         <p>download ppsspp</p>
+         <a href="https://www.ppsspp.org/download/">
+         <button>download</button>
+         </a>
+         <p id="x">roms store</p>
+         <a href="https://romsfun.com/roms/playstation-portable/">
+         <button>open</button>
+         </a>
